@@ -1,1 +1,0 @@
-import{_ as c}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{r as e,c as r,o as t}from"./index-BpzyLK_-.js";const a={__name:"SimetricPage",setup(o){return e(""),e(""),e(""),e(""),e(""),e(""),e(""),e(null),e(null),e(""),(_,s)=>(t(),r("h1",null,"Simetric page"))}},m=c(a,[["__scopeId","data-v-ec5987ac"]]);export{m as default};
