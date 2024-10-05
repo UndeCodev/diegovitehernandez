@@ -1,1 +1,0 @@
-import{_ as e,c as o,a as n,o as r}from"./index-BCpMr3HT.js";const t={};function s(c,a,p,i,l,d){return r(),o("div",null,a[0]||(a[0]=[n("h1",null,"Pagina de comparación",-1)]))}const f=e(t,[["render",s]]);export{f as default};
